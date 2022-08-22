@@ -9,5 +9,6 @@ sonarqube {
     property "sonar.projectKey", "ParagKadam101_sonar-test"
     property "sonar.organization", "paragk"
     property "sonar.host.url", "https://sonarcloud.io"
+    property "sonar.sources", "src/main/java"
   }
 }
